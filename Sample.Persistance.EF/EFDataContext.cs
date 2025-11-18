@@ -12,6 +12,8 @@ public class EFDataContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        // modelBuilder.ApplyConfigurationsFromAssembly(typeof(EFDataContext).Assembly);
+        // base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Student>();
         base.OnModelCreating(modelBuilder);
     }
