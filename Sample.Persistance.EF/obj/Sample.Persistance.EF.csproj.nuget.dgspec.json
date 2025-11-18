@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\tamrin\\Sample\\Sample\\Sample.Persistance.EF\\Sample.Persistance.EF.csproj": {}
+  },
+  "projects": {
+    "D:\\tamrin\\Sample\\Sample\\Sample.Application\\Sample.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tamrin\\Sample\\Sample\\Sample.Application\\Sample.Application.csproj",
+        "projectName": "Sample.Application",
+        "projectPath": "D:\\tamrin\\Sample\\Sample\\Sample.Application\\Sample.Application.csproj",
+        "packagesPath": "C:\\Users\\Markazi.co\\.nuget\\packages\\",
+        "outputPath": "D:\\tamrin\\Sample\\Sample\\Sample.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\Markazi.co\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.repo.taavsystem.ir/repository/taav-nuget/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\tamrin\\Sample\\Sample\\Sample.Entities\\Sample.Entities.csproj": {
+                "projectPath": "D:\\tamrin\\Sample\\Sample\\Sample.Entities\\Sample.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\tamrin\\Sample\\Sample\\Sample.Entities\\Sample.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tamrin\\Sample\\Sample\\Sample.Entities\\Sample.Entities.csproj",
+        "projectName": "Sample.Entities",
+        "projectPath": "D:\\tamrin\\Sample\\Sample\\Sample.Entities\\Sample.Entities.csproj",
+        "packagesPath": "C:\\Users\\Markazi.co\\.nuget\\packages\\",
+        "outputPath": "D:\\tamrin\\Sample\\Sample\\Sample.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\Markazi.co\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.repo.taavsystem.ir/repository/taav-nuget/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\tamrin\\Sample\\Sample\\Sample.Persistance.EF\\Sample.Persistance.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tamrin\\Sample\\Sample\\Sample.Persistance.EF\\Sample.Persistance.EF.csproj",
+        "projectName": "Sample.Persistance.EF",
+        "projectPath": "D:\\tamrin\\Sample\\Sample\\Sample.Persistance.EF\\Sample.Persistance.EF.csproj",
+        "packagesPath": "C:\\Users\\Markazi.co\\.nuget\\packages\\",
+        "outputPath": "D:\\tamrin\\Sample\\Sample\\Sample.Persistance.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\Markazi.co\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.repo.taavsystem.ir/repository/taav-nuget/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\tamrin\\Sample\\Sample\\Sample.Application\\Sample.Application.csproj": {
+                "projectPath": "D:\\tamrin\\Sample\\Sample\\Sample.Application\\Sample.Application.csproj"
+              },
+              "D:\\tamrin\\Sample\\Sample\\Sample.Entities\\Sample.Entities.csproj": {
+                "projectPath": "D:\\tamrin\\Sample\\Sample\\Sample.Entities\\Sample.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\tamrin\Sample\Sample\Sample.Application\bin\Debug\net8.0\Sample.Application.deps.json
+D:\tamrin\Sample\Sample\Sample.Application\bin\Debug\net8.0\Sample.Application.dll
+D:\tamrin\Sample\Sample\Sample.Application\bin\Debug\net8.0\Sample.Application.pdb
+D:\tamrin\Sample\Sample\Sample.Application\bin\Debug\net8.0\Sample.Entities.dll
+D:\tamrin\Sample\Sample\Sample.Application\bin\Debug\net8.0\Sample.Entities.pdb
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\Sample.Application.csproj.AssemblyReference.cache
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\Sample.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\Sample.Application.AssemblyInfoInputs.cache
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\Sample.Application.AssemblyInfo.cs
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\Sample.Application.csproj.CoreCompileInputs.cache
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\Sample.A.41C4AB73.Up2Date
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\Sample.Application.dll
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\refint\Sample.Application.dll
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\Sample.Application.pdb
+D:\tamrin\Sample\Sample\Sample.Application\obj\Debug\net8.0\ref\Sample.Application.dll

@@ -1,0 +1,11 @@
+D:\tamrin\Sample\Sample\Sample.Entities\bin\Debug\net8.0\Sample.Entities.deps.json
+D:\tamrin\Sample\Sample\Sample.Entities\bin\Debug\net8.0\Sample.Entities.dll
+D:\tamrin\Sample\Sample\Sample.Entities\bin\Debug\net8.0\Sample.Entities.pdb
+D:\tamrin\Sample\Sample\Sample.Entities\obj\Debug\net8.0\Sample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\tamrin\Sample\Sample\Sample.Entities\obj\Debug\net8.0\Sample.Entities.AssemblyInfoInputs.cache
+D:\tamrin\Sample\Sample\Sample.Entities\obj\Debug\net8.0\Sample.Entities.AssemblyInfo.cs
+D:\tamrin\Sample\Sample\Sample.Entities\obj\Debug\net8.0\Sample.Entities.csproj.CoreCompileInputs.cache
+D:\tamrin\Sample\Sample\Sample.Entities\obj\Debug\net8.0\Sample.Entities.dll
+D:\tamrin\Sample\Sample\Sample.Entities\obj\Debug\net8.0\refint\Sample.Entities.dll
+D:\tamrin\Sample\Sample\Sample.Entities\obj\Debug\net8.0\Sample.Entities.pdb
+D:\tamrin\Sample\Sample\Sample.Entities\obj\Debug\net8.0\ref\Sample.Entities.dll
